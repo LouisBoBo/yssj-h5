@@ -1,6 +1,5 @@
 #player{
     display: flex;
-    flex-direction: row;
     background: black;
     height: 100%;
     width: 100%;
